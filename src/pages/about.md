@@ -6,7 +6,7 @@ description: "Who I am and what I care about."
 
 ## 👋 Hello, I’m Viral
 
-I'm a Machine Learning Engineer, lifelong learner, and teacher at heart. My work blends engineering, research, and product thinking — turning ideas into real, usable systems. I enjoy building things that are practical, minimal, and meaningful.
+I'm a Machine Learning Development Manager at Autodesk, a lifelong learner, and a teacher at heart. My work blends engineering, research, and leadership — turning ideas into scalable, impactful ML systems. I enjoy building things that are practical, minimal, and meaningful.
 
 This site is my digital home — a place to document:
 - Projects I'm working on
@@ -18,37 +18,37 @@ This site is my digital home — a place to document:
 ## 🧠 What I Care About
 
 - **Applied ML** — especially computer vision, NLP, generative AI, and self-supervised learning  
-- **Simplicity** — in design, code, and communication  
-- **Teaching** — I mentor and coach, and believe sharing knowledge is a multiplier  
-- **Productivity** — systems, habits, and workflows that make space for deep work  
-- **Curiosity** — I'm always learning, often by doing and sometimes by writing about it
+- **Simplicity** — in design, code, processes, and communication  
+- **Teaching & Mentorship** — I actively mentor and teach, and believe sharing knowledge multiplies impact  
+- **ML Infrastructure** — building robust pipelines and evaluation frameworks  
+- **Curiosity** — I’m always learning, experimenting, and connecting dots across disciplines
 
 ---
 
 ## 💻 My Stack
 
-- **Languages**: Python, Bash, JavaScript  
-- **ML**: TensorFlow, PyTorch, Scikit-Learn  
-- **Infra**: AWS, Ray, Docker  
-- **Other**: Astro, Markdown, VS Code, Notion
+- **Languages**: Python, C++, JavaScript  
+- **ML Frameworks**: TensorFlow, PyTorch, Keras, JAX, Scikit-Learn  
+- **Platforms**: AWS SageMaker, GCP Vertex AI, OpenAI  
+- **Infra**: Docker, AWS SAM, TensorRT, TFServing, Flask  
+- **Boards**: NVIDIA Jetson, Raspberry Pi, Arduino  
+- **Workflow**: Git, Jira, Confluence, GitHub  
 
 ---
 
 ## 🛠 Current Projects
-
-- Leading ML initiatives at work around content understanding  
-- Writing weekly posts on engineering and learning  
-- Learning to draw with Sharpies & Sticky Notes for fun ✏️  
-- Slowly building this site into a digital garden 🌱
+ 
+- Writing weekly posts on ML, productivity, and teaching  
+- Exploring drawing with Sharpies & Sticky Notes ✏️  
+- Tending to this site as a digital garden 🌱  
 
 ---
 
 ## 📬 Say Hello
 
-Feel free to reach out via [email](mailto:your@email.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or [GitHub](https://github.com/yourusername).
+Feel free to reach out via [email](mailto:viralbthakar@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/viralbthakar) or [GitHub](https://github.com/viralbthakar).
 
 ---
 
 Thanks for stopping by 🙏  
-
 – Viral

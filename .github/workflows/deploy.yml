@@ -1,0 +1,33 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # only deploy when pushing to main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Push to target repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          external_repository: viralbthakar/viralthakar-prd
+          publish_branch: main  # or gh-pages, depending on what you configured
+          publish_dir: ./dist
+          personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
