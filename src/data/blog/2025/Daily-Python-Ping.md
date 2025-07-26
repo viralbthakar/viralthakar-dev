@@ -1,7 +1,7 @@
 ---
-author: Sat Naing
-pubDatetime: 2025-07-26T03:22:25+0000
-modDatetime: 2025-07-26T03:22:25+0000
+author: Viral Thakar
+pubDatetime: 2025-07-25T11:45:00Z
+modDatetime: 2025-07-25T11:45:00Z
 title: Daily Python Ping
 slug: daily-python-ping
 featured: true
