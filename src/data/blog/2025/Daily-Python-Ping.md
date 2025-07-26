@@ -12,9 +12,8 @@ description:
     A daily Python ping to practice and improve coding skills.
 ---
 
-# Daily Python Ping
-- [Daily Python Ping](#daily-python-ping)
-  - [July 25, 2025](#july-25-2025)
+Here is the latest update for the Daily Python Ping:
+## Table of Contents
 
 ## July 25, 2025
 Write a python script to reverse a string.
