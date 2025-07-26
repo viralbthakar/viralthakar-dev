@@ -30,3 +30,33 @@ This will output:
 ```
 !dlroW ,olleH
 ```
+
+## July 26, 2025
+Write a python script to check if a number is prime.
+```python
+# Function to check if a number is prime
+def is_prime(n):
+    if n <= 1:
+        return False
+    # Using Trial Division method to check for primality
+    for i in range(2, int(n**0.5) + 1):
+      if n % i == 0:
+        return False
+    return True
+```
+Here is the example usage:
+```python
+print(is_prime(5))
+```python
+print(is_prime(5))
+print(is_prime(10))
+```
+This will output:
+```
+True
+False
+```
+
+To read more about the Trial Division method, you can refer to the Wikipedia article on Primality Test(https://en.wikipedia.org/wiki/Primality_test#Complexity) and Trial Division(https://en.wikipedia.org/wiki/Trial_division).
+
+## July 27, 2025
