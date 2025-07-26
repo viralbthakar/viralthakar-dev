@@ -31,8 +31,6 @@ def is_prime(n):
 Here is the example usage:
 ```python
 print(is_prime(5))
-```python
-print(is_prime(5))
 print(is_prime(10))
 ```
 This will output:
