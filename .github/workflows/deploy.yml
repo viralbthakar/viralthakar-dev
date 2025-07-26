@@ -29,5 +29,6 @@ jobs:
         with:
           external_repository: viralbthakar/viralthakar-prd
           publish_branch: main  # or gh-pages, depending on what you configured
+          cname: www.viralthakar.com
           publish_dir: ./dist
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
