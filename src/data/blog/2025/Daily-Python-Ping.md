@@ -13,7 +13,6 @@ description:
 ---
 
 # Daily Python Ping
-// Table of contents
 - [Daily Python Ping](#daily-python-ping)
   - [July 25, 2025](#july-25-2025)
 
