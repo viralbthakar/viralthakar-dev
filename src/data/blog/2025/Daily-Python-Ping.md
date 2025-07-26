@@ -1,7 +1,7 @@
 ---
 author: Viral Thakar
 pubDatetime: 2025-07-25T11:45:00Z
-modDatetime: 2025-07-25T11:45:00Z
+modDatetime: 2025-07-26T13:28:00Z
 title: Daily Python Ping
 slug: daily-python-ping
 featured: true
@@ -14,22 +14,6 @@ description:
 
 Here is the latest update for the Daily Python Ping:
 ## Table of Contents
-
-## July 25, 2025
-Write a python script to reverse a string.
-```python
-# Function to reverse a string
-def reverse_string(s):
-    return s[::-1]
-```
-Here is the example usage:
-```python
-print(reverse_string("Hello, World!"))
-```
-This will output:
-```
-!dlroW ,olleH
-```
 
 ## July 26, 2025
 Write a python script to check if a number is prime.
@@ -57,6 +41,20 @@ True
 False
 ```
 
-To read more about the Trial Division method, you can refer to the Wikipedia article on Primality Test(https://en.wikipedia.org/wiki/Primality_test#Complexity) and Trial Division(https://en.wikipedia.org/wiki/Trial_division).
+To read more about the Trial Division method, you can refer to the Wikipedia article on [Primality Test](https://en.wikipedia.org/wiki/Primality_test#Complexity) and [Trial Division](https://en.wikipedia.org/wiki/Trial_division).
 
-## July 27, 2025
+## July 25, 2025
+Write a python script to reverse a string.
+```python
+# Function to reverse a string
+def reverse_string(s):
+    return s[::-1]
+```
+Here is the example usage:
+```python
+print(reverse_string("Hello, World!"))
+```
+This will output:
+```
+!dlroW ,olleH
+```
