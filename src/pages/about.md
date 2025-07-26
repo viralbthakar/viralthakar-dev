@@ -4,7 +4,7 @@ title: "About"
 description: "Who I am and what I care about."
 ---
 
-## 👋 Hello, I’m Viral
+## Hello, I’m Viral
 
 I'm a Machine Learning Development Manager at Autodesk, a lifelong learner, and a teacher at heart. My work blends engineering, research, and leadership — turning ideas into scalable, impactful ML systems. I enjoy building things that are practical, minimal, and meaningful.
 
@@ -15,7 +15,7 @@ This site is my digital home — a place to document:
 
 ---
 
-## 🧠 What I Care About
+## What I Care About
 
 - **Applied ML** — especially computer vision, NLP, generative AI, and self-supervised learning  
 - **Simplicity** — in design, code, processes, and communication  
@@ -25,7 +25,7 @@ This site is my digital home — a place to document:
 
 ---
 
-## 💻 My Stack
+## My Stack
 
 - **Languages**: Python, C++, JavaScript  
 - **ML Frameworks**: TensorFlow, PyTorch, Keras, JAX, Scikit-Learn  
@@ -36,7 +36,7 @@ This site is my digital home — a place to document:
 
 ---
 
-## 🛠 Current Projects
+## Current Projects
  
 - Writing weekly posts on ML, productivity, and teaching  
 - Exploring drawing with Sharpies & Sticky Notes ✏️  
@@ -44,7 +44,7 @@ This site is my digital home — a place to document:
 
 ---
 
-## 📬 Say Hello
+## Say Hello
 
 Feel free to reach out via [email](mailto:viralbthakar@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/viralbthakar) or [GitHub](https://github.com/viralbthakar).
 
