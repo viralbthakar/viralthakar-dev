@@ -15,6 +15,31 @@ description:
 Here is the latest update for the Daily Python Ping:
 ## Table of Contents
 
+## July 27, 2025
+Write a python script to find the factorial of a number.
+```python
+# Function to find the factorial of a number
+def factorial(n):
+    if n < 0:
+        return "Factorial is not defined for negative numbers"
+    if n == 0 or n == 1:
+        return 1
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
+```
+Here is the example usage:
+```python
+print(factorial(5))
+print(factorial(0))
+```
+This will output:
+```
+120
+1
+```
+
 ## July 26, 2025
 Write a python script to check if a number is prime.
 ```python
