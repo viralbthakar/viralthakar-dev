@@ -1,7 +1,7 @@
 ---
 author: Viral Thakar
 pubDatetime: 2025-07-25T11:45:00Z
-modDatetime: 2025-07-27T18:58:00Z
+modDatetime: 2025-07-28T21:54:00Z
 title: Daily Python Ping
 slug: daily-python-ping
 featured: true
@@ -14,6 +14,25 @@ description:
 
 Here is the latest update for the Daily Python Ping:
 ## Table of Contents
+
+## July 28, 2025
+Write a python script to check if a string is a palindrome.
+```python
+# Function to check if a string is a palindrome
+def is_palindrome(s):
+    s = s.lower().replace(" ", "")
+    return s == s[::-1]
+```
+Here is the example usage:
+```python
+print(is_palindrome("A man a plan a canal Panama"))
+print(is_palindrome("Hello World"))
+```
+This will output:
+```
+True
+False
+```
 
 ## July 27, 2025
 Write a python script to find the factorial of a number.
